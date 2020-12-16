@@ -28,33 +28,76 @@ Esse Projeto foi motivado a partir de um trabalho avaliativo da disciplina Compu
 
 Fase 1 (Outubro, 2018)
 
-- *Levantamento de fotos.*
+- Levantamento de fotos.
 
-- *Reconhecimento do local.*
+- reconhecimento do local.
 
-- *Efetudo medições dos objetos.*
+- Efetudo medições dos objetos.
 
 Fase 2 (Novembro e Dezembro, 2018)
 
-- *Modelado os três andares do prédio de forma separada.*
+- Modelado os três andares do prédio de forma separada.
 
-- *Após a modelagem dos três, efetuada a junção dos andares.*
+- Após a modelagem dos três, efetuada a junção dos andares.
 
 Fase 3 (Dezembro, 2018)
 
-- *Etapa de textura e refinamento.*
+- Etapa de textura e refinamento.
 
-- *Animação.*
+- Animação.
 
-- *Renderização.*
+- Renderização.
 
 <h3>Textura</3>
 
+<p>Modelagem via planta baixa Após os cortes feitos no plano (Blender)</p>
+<img src="https://github.com/fernandofreire01/Trabalho_CGPI_Blender/blob/master/imagens/2020-12-15_225703.jpg" width="80%">
 
+<p>Modelagem do subsolo</p>
+<img src="https://github.com/fernandofreire01/Trabalho_CGPI_Blender/blob/master/imagens/2020-12-15_225712.jpg" width="80%">
+
+<p>Modelagem do Térreo</p>
+<img src="https://github.com/fernandofreire01/Trabalho_CGPI_Blender/blob/master/imagens/2020-12-15_225717.jpg" width="80%">
+
+<p>Modelagem da parte superior</p>
+<img src="https://github.com/fernandofreire01/Trabalho_CGPI_Blender/blob/master/imagens/2020-12-15_225723.jpg" width="80%">
+
+<p>Devido a forma de construção em modulo do galpão, nesse momento foi realizado a união entre os andares.</p>
+
+<img src="https://github.com/fernandofreire01/Trabalho_CGPI_Blender/blob/master/imagens/2020-12-15_225744.jpg" width="80%">
+
+<p>Com a união dos andares tivemos a extrutura do predio construida apresentada nas imagens abaixo no modo SÓLIDO e ARAMADO.</p>
+
+<img src="https://github.com/fernandofreire01/Trabalho_CGPI_Blender/blob/master/imagens/2020-12-15_225958.jpg" width="80%">
+
+<img src="https://github.com/fernandofreire01/Trabalho_CGPI_Blender/blob/master/imagens/2020-12-15_230019.jpg" width="80%">
+
+<p>A imagem abaixo mostra algumas estátisticas de elementos utilizados no projeto.</p>
+
+<img src="https://github.com/fernandofreire01/Trabalho_CGPI_Blender/blob/master/imagens/2020-12-15_230043.jpg" width="80%">
 
 <h3>Resultados</h3>
 
+<p>Após a união do andares foram inserido testuras e estudos das cores, iluminação, texturas e estruturas.</p>
 
+<img src="https://github.com/fernandofreire01/Trabalho_CGPI_Blender/blob/master/imagens/2020-12-15_231804.jpg" width="80%">
+
+<img src="https://github.com/fernandofreire01/Trabalho_CGPI_Blender/blob/master/imagens/2020-12-15_231839.jpg" width="80%">
+
+<p>No fim do projeto o resultado da renderização está disponivel no video abaixo.</p>
+
+<h3>YOUTUBE</h3>
+
+<p><Incluir Link><p>
+
+<h3>Contribuidores</h3>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/anselmomendes"><img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/30941328?s=460&u=32b0cd9c3f0cefb87dc2caf0c3004845a5031726&v=4" width="100px;" alt=""/><br /><sub><b>Anselmo Mendes</b></sub></a><br /><a href="https://github.com/anselmomendes" title="Graduando em Eng. Computação">👨‍💻🚀🌽🍐🍒🍉</a></td>
+    <td align="center"><a href="https://github.com/fernandofreire01"><img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/43678276?s=460&u=7342b0f3812e4a184967d5a14562d46e25d196d6&v=4" width="100px;" alt=""/><br /><sub><b>Fernando Freire</b></sub></a><br /><a href="https://github.com/fernandofreire01" title="Graduando em Eng. Computação">👨‍💻🚀🥑🍈🍏🍎</a></td>
+  </tr>
+</table>
 
 (1) https://www.unifesspa.edu.br/noticias/2268-inovacao-e-tecnologia-galpao-de-laboratorios-do-ige-sera-inaugurado-no-dia-06-de-abril
 
