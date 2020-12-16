@@ -24,7 +24,7 @@ Esse Projeto foi motivado a partir de um trabalho avaliativo da disciplina Compu
 
 <h3>Modelagem</3>
 
-**As etapas foram divididas em 3 fases.**
+### As etapas foram divididas em 3 fases.
 
 Fase 1 (Outubro, 2018)
 
