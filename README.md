@@ -28,25 +28,25 @@ Esse Projeto foi motivado a partir de um trabalho avaliativo da disciplina Compu
 
 Fase 1 (Outubro, 2018)
 
-- Levantamento de fotos.
+* Levantamento de fotos.
 
-- reconhecimento do local.
+* reconhecimento do local.
 
-- Efetudo medições dos objetos.
+* Efetudo medições dos objetos.
 
 Fase 2 (Novembro e Dezembro, 2018)
 
-- Modelado os três andares do prédio de forma separada.
+* Modelado os três andares do prédio de forma separada.
 
-- Após a modelagem dos três, efetuada a junção dos andares.
+* Após a modelagem dos três, efetuada a junção dos andares.
 
 Fase 3 (Dezembro, 2018)
 
-- Etapa de textura e refinamento.
+* Etapa de textura e refinamento.
 
-- Animação.
+* Animação.
 
-- Renderização.
+* Renderização.
 
 <h3>Textura</3>
 
@@ -88,7 +88,7 @@ Fase 3 (Dezembro, 2018)
 
 <h3>YOUTUBE</h3>
 
-<p><Incluir Link><p>
+- Incluir Link
 
 <h3>Contribuidores</h3>
 
