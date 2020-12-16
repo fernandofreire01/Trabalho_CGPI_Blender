@@ -1,10 +1,8 @@
-
-
 <h1 align="center">Modelagem 3D do Galpão de Laboratórios do Instituto de Geociências e Engenharias - IGE - UNIFESSPA.</h1>
 
-<p align="center">🚀 Modelagem do galpão laboratório da Unifesspa em Unity</p>
+<p align="center">🚀 Modelagem do galpão laboratório da Unifesspa em Blender</p>
 
-<p align="center"><img src="https://simpleicons.org/icons/unity.svg" width="100" height="100"></p>
+<p align="center"><img src="https://xorandre.github.io/AndreRodrigues/assets/img/icons/blender.png" height="100"></p>
 
 O prédio do galpão de laboratórios do IGE é um patrimônio da Unifesspa que proporcionará condições físicas adequadas para o desenvolvimento das atividades práticas dos cursos de Engenharia. Os 17 laboratórios construídos neste espaço permitirão a participação ativa dos discentes de engenharia em atividades experimentais, contribuindo para o desenvolvimento do raciocínio lógico e racional, e no aprimoramento do processo de ensino-aprendizagem (1).
 
