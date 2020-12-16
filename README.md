@@ -86,10 +86,6 @@ Fase 3 (Dezembro, 2018)
 
 <p>No fim do projeto o resultado da renderização está disponivel no video abaixo.</p>
 
-<h3>YOUTUBE</h3>
-
-- Incluir Link
-
 <h3>Contribuidores</h3>
 
 <table>
